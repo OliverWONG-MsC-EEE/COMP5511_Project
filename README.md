@@ -4,4 +4,4 @@ Banks are experiencing customer attrition while Churn analysis can be performed 
 ## Data visualization
 For visualization of the KDE and model performances, please refer to the CaptruedResults folder.
 For examples:
-![image]{https://github.com/OliverWONG-MsC-EEE/COMP5511_Project/blob/main/CapturedResults/Models/Accuracy.png}
+![image](https://github.com/OliverWONG-MsC-EEE/COMP5511_Project/blob/main/CapturedResults/Models/Accuracy.png)
