@@ -5,3 +5,5 @@ Banks are experiencing customer attrition while Churn analysis can be performed 
 For visualization of the KDE and model performances, please refer to the CaptruedResults folder.
 For examples:
 ![image](https://github.com/OliverWONG-MsC-EEE/COMP5511_Project/blob/main/CapturedResults/Models/Accuracy.png)
+![image](https://github.com/OliverWONG-MsC-EEE/COMP5511_Project/blob/main/CapturedResults/Models/Recall.png)
+![image](https://github.com/OliverWONG-MsC-EEE/COMP5511_Project/blob/main/CapturedResults/Models/DNN/phase/probability/6.png)
